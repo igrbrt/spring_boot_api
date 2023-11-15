@@ -1,4 +1,4 @@
-# spring_boot_api
+# Java Spring Boot 3
 Java Spring Boot API RESTfull project
 
 - Spring Boot 3
